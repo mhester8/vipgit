@@ -1,0 +1,6 @@
+/var/spool/torque/mom_priv/jobs/22583532.shared-sched.pace.gatech.edu.SC: line 12: cd: sugar/vipgit/: No such file or directory
+sh: /tmp/uniqnodefile: Permission denied
+=>> PBS: job killed: walltime 7281 exceeded limit 7200
+[proxy:0:0@rich133-c34-26-r.pace.gatech.edu] HYD_pmcd_pmip_control_cmd_cb (pm/pmiserv/pmip_cb.c:909): assert (!closed) failed
+[proxy:0:0@rich133-c34-26-r.pace.gatech.edu] HYDT_dmxu_poll_wait_for_event (tools/demux/demux_poll.c:76): callback returned error status
+[proxy:0:0@rich133-c34-26-r.pace.gatech.edu] main (pm/pmiserv/pmip.c:206): demux engine error waiting for event

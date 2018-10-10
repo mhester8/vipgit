@@ -1,0 +1,26 @@
+---------------------------------------
+Begin PBS Prologue Thu Oct  4 13:38:56 EDT 2018
+Job ID:     22583554.shared-sched.pace.gatech.edu
+User ID:    ahernandez62
+Job name:   pt_lev
+Queue:      joe
+End PBS Prologue Thu Oct  4 13:38:56 EDT 2018
+---------------------------------------
+/nv/hp13/ahernandez62/sugar/vipgit/E_slab_ads
+['pw.inp', 'qe22583539.shared-sched.pace.gatech.edu_7ypNu', 'qe_OW3Nj', 'qe_S0ZSh', 'qe22583551.shared-sched.pace.gatech.edu_WER2x', 'qe_RzEYC', 'qe_Jndsx', 'qe_Tmpql', 'qe_p0veI', 'log', 'qe22583537.shared-sched.pace.gatech.edu_C0A1f']
+
+
+
+
+---------------------------------------
+Begin PBS Epilogue Thu Oct  4 13:38:58 EDT 2018
+Job ID:     22583554.shared-sched.pace.gatech.edu
+User ID:    ahernandez62
+Job name:   pt_lev
+Resources:  neednodes=1:ppn=14,nodes=1:ppn=14,walltime=40:00:00
+Rsrc Used:  cput=00:00:00,energy_used=0,mem=31268kb,vmem=537300kb,walltime=00:00:02
+Queue:      joe
+Nodes:     
+rich133-c32-28-l.pace.gatech.edu
+End PBS Epilogue Thu Oct  4 13:38:58 EDT 2018
+---------------------------------------

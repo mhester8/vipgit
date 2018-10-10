@@ -2,7 +2,7 @@ from ase.io import read
 from espresso import espresso
 from ase.optimize import QuasiNewton
 
-name = 'pt_glucaric'
+name = 'pt_ita'
 
 slab_ads=read(name + '.traj')
 slab_ads.calc=espresso(pw=400,
