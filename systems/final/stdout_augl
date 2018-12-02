@@ -1,0 +1,27 @@
+---------------------------------------
+Begin PBS Prologue Fri Nov 23 15:54:08 EST 2018
+Job ID:     22956960.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   augl
+Queue:      joeforce
+End PBS Prologue Fri Nov 23 15:54:08 EST 2018
+---------------------------------------
+/nv/hp22/mhester8/sugar/vipgit/systems/E_slab_ads_augl
+['log', 'pw.inp']
+
+
+
+
+-124213.450684
+---------------------------------------
+Begin PBS Epilogue Sun Nov 25 17:31:58 EST 2018
+Job ID:     22956960.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   augl
+Resources:  neednodes=1:ppn=12,nodes=1:ppn=12,walltime=60:00:00
+Rsrc Used:  cput=595:47:18,energy_used=0,mem=14929232kb,vmem=20065924kb,walltime=49:37:50
+Queue:      joeforce
+Nodes:     
+rich133-c32-22-l.pace.gatech.edu
+End PBS Epilogue Sun Nov 25 17:31:58 EST 2018
+---------------------------------------

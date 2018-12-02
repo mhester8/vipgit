@@ -1,0 +1,27 @@
+---------------------------------------
+Begin PBS Prologue Fri Nov 23 16:19:07 EST 2018
+Job ID:     22957500.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   ruita
+Queue:      joeforce
+End PBS Prologue Fri Nov 23 16:19:07 EST 2018
+---------------------------------------
+/nv/hp22/mhester8/sugar/vipgit/systems/E_slab_ads_rulev
+['pw.inp', 'log']
+
+
+
+
+-84342.2387061
+---------------------------------------
+Begin PBS Epilogue Sun Nov 25 05:19:31 EST 2018
+Job ID:     22957500.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   ruita
+Resources:  neednodes=1:ppn=12,nodes=1:ppn=12,walltime=60:00:00
+Rsrc Used:  cput=444:14:43,energy_used=0,mem=5868988kb,vmem=10583108kb,walltime=37:00:24
+Queue:      joeforce
+Nodes:     
+rich133-c32-27-r.pace.gatech.edu
+End PBS Epilogue Sun Nov 25 05:19:31 EST 2018
+---------------------------------------
