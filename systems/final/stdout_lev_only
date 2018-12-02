@@ -1,0 +1,27 @@
+---------------------------------------
+Begin PBS Prologue Mon Nov 19 22:42:31 EST 2018
+Job ID:     22936189.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   levy
+Queue:      joeforce
+End PBS Prologue Mon Nov 19 22:42:31 EST 2018
+---------------------------------------
+/nv/hp22/mhester8/sugar/vipgit/E_slab_ads_itatest
+['qe22936018.shared-sched.pace.gatech.edu_sJgIr', 'log', 'qe22935975.shared-sched.pace.gatech.edu_nUwwt', 'qe22935976.shared-sched.pace.gatech.edu_hJf5U', 'qe22935964.shared-sched.pace.gatech.edu_emOGo', 'qe22935982.shared-sched.pace.gatech.edu_cHczK', 'pw.inp']
+
+
+
+
+-2228.28885195
+---------------------------------------
+Begin PBS Epilogue Tue Nov 20 11:51:26 EST 2018
+Job ID:     22936189.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   levy
+Resources:  neednodes=1:ppn=12,nodes=1:ppn=12,walltime=72:00:00
+Rsrc Used:  cput=157:23:43,energy_used=0,mem=2785076kb,vmem=6553876kb,walltime=13:08:55
+Queue:      joeforce
+Nodes:     
+iw-h31-19.pace.gatech.edu
+End PBS Epilogue Tue Nov 20 11:51:26 EST 2018
+---------------------------------------

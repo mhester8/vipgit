@@ -1,0 +1,27 @@
+---------------------------------------
+Begin PBS Prologue Mon Nov 26 15:52:21 EST 2018
+Job ID:     22974105.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   cuonly
+Queue:      joeforce
+End PBS Prologue Mon Nov 26 15:52:21 EST 2018
+---------------------------------------
+/nv/hp22/mhester8/sugar/vipgit/E_slab_ads_cuonly69
+['log', 'pw.inp']
+
+
+
+
+-175783.726105
+---------------------------------------
+Begin PBS Epilogue Mon Nov 26 18:05:47 EST 2018
+Job ID:     22974105.shared-sched.pace.gatech.edu
+User ID:    mhester8
+Job name:   cuonly
+Resources:  neednodes=1:ppn=12,nodes=1:ppn=12,walltime=72:00:00
+Rsrc Used:  cput=26:20:42,energy_used=0,mem=7242824kb,vmem=11018304kb,walltime=02:13:26
+Queue:      joeforce
+Nodes:     
+iw-h31-20.pace.gatech.edu
+End PBS Epilogue Mon Nov 26 18:05:47 EST 2018
+---------------------------------------
